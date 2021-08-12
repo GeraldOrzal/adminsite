@@ -1,4 +1,16 @@
+:root{
+  --var--bgcolor:#1B1B1B;
+  --var--color:white;
+  --var--formcolor:transparent;
+  --var--inputcolor:rgba(255, 255, 255, .2);
+  --var--bordercolor: solid #32E0C4 3px;
+  --var--buttonhovercolor: #141414;
+}
 .App {
   height: auto;
+  background-color: var(--var--bgcolor);
 }
+
+
+
 
